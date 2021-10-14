@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Bryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeicons.io%2Fvector-and-svg-logos-icons-13%2Fnextjs-icon-8814&psig=AOvVaw1iwFFHR0k33gN6LGpdBJo3&ust=1634303543670000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKig2KX9yfMCFQAAAAAdAAAAABAD">
-  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fnode-js&psig=AOvVaw2f05oIKfMuwq3GG7FA-7qg&ust=1634303613866000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIjexMv9yfMCFQAAAAAdAAAAABAD">
+  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg">
+  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
   <img align="right" width="100" height="100" alt="Rafa-yoda" src="https://avatars.githubusercontent.com/u/62571814?v=4">
 </div>
   
