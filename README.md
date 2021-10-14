@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanmaraujo544
-- 👀 I’m interested in improve my skills in React an Nextjs, NodeJs, React Native and in future get a job.
-- 🌱 I’m currently learning React, NextJs, TypeScript.
+- 👀 I’m interested in improve my skills in React, NodeJs, React Native and in future get a job.
+- 🌱 I’m currently learning React, NextJs, TypeScript and NodeJs.
 - 💞️ I’m looking to collaborate on some project I can put my knowledge into practice
 - 📫 How to reach me: email: bryanmaraujo544@gmail.com
 
@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto: bryanmaraujo544@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-araujo-9705011b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
