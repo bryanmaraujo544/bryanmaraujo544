@@ -36,3 +36,7 @@ You can click the Preview link to take a look at your changes.
   <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+ 
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/bryanmaraujo544/count.svg" />
+ </p>
