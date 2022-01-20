@@ -1,7 +1,7 @@
    <img align="right" width="150" height="150" alt="Bryan" src="https://avatars.githubusercontent.com/u/62571814?v=4">
 
 - 👋 Hi, I’m @bryanmaraujo544
-- 👀 I’m interested in improve my skills in React, NodeJs, React Native and in future get a job.
+- 👀 I’m improving my skills in React, NodeJs, React Native with a desire to get a job as soon as possible.
 - 🌱 I’m currently learning React, NextJs, TypeScript and NodeJs.
 - 📫 How to reach me: email: bryanmaraujo544@gmail.com
 
