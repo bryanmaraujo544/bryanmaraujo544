@@ -1,9 +1,9 @@
    <img align="right" width="150" height="150" alt="Bryan" src="https://avatars.githubusercontent.com/u/62571814?v=4">
 
 - 👋 Hi, I’m @bryanmaraujo544
-- 👀 I’m improving my skills in React, NodeJs, React Native with a desire to get a job as soon as possible.
 - 🌱 I’m currently learning React, NextJs, TypeScript and NodeJs.
 - 📫 How to reach me: email: bryanmaraujo544@gmail.com
+- 🚀 My Portfolio Website: https://bryanmartins.vercel.app/
 
 <!---
 bryanmaraujo544/bryanmaraujo544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
