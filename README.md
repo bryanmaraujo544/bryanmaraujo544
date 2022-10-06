@@ -10,22 +10,14 @@ bryanmaraujo544/bryanmaraujo544 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-## Heey! I'm Bryan Martins
- <div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=181848&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Bryan+Martins;I'm+18+years+old;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
 
-  <a href="https://github.com/bryanmaraujo544">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanmaraujo544&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmaraujo544&layout=compact&langs_count=16&theme=light"/>
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bryan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg">
-  <img align="center" alt="Bryan-Next" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bryanmaraujo544&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Uluketa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluketa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
   
   ##
